@@ -7,7 +7,7 @@ We present Virtual Elastic Objects (VEOs): virtual objects that not only look li
   
 [[Paper]](https://arxiv.org/abs/2201.04623) [[Dataset]](https://github.com/facebookresearch/plush_dataset.git)
 
-<video width="1280" height="720" controls>
+<video width="900" height="500" controls>
   <source src="veos.mp4" type="video/mp4">
 </video>
 
